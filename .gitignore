@@ -16,5 +16,16 @@ lerna-debug.log*
 *.env
 .azure
 
+# IDEs and editors
+*.iml
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
 # OS
 .DS_Store
+Thumbs.db
